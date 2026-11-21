@@ -18,9 +18,9 @@ Le calcul repose sur un **système d'inférence flou (SIF) de type Mamdani**.
 
 | Note | Niveau | Verdict |
 |---|---|---|
-| ≥ 70 | 5 à 6 | ✅ Recommandé |
-| 50 à 70 | 4 | ⚠️ À considérer |
-| < 50 | 1 à 3 | ❌ Non recommandé |
+| ≥ 70 | 5 à 6 |  Recommandé |
+| 50 à 70 | 4 |  À considérer |
+| < 50 | 1 à 3 |  Non recommandé |
 
 ## Lancer le projet
 
